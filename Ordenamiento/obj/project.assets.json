@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASKII.DESKTOP-D39ELPS\\documents\\gitStuff\\tdd-Shernandezglez\\Ordenamiento\\Ordenamiento.csproj",
+      "projectUniqueName": "C:\\Users\\ASKII.DESKTOP-D39ELPS\\Documents\\gitStuff\\tdd-Shernandezglez\\Ordenamiento\\Ordenamiento.csproj",
       "projectName": "Ordenamiento",
-      "projectPath": "C:\\Users\\ASKII.DESKTOP-D39ELPS\\documents\\gitStuff\\tdd-Shernandezglez\\Ordenamiento\\Ordenamiento.csproj",
+      "projectPath": "C:\\Users\\ASKII.DESKTOP-D39ELPS\\Documents\\gitStuff\\tdd-Shernandezglez\\Ordenamiento\\Ordenamiento.csproj",
       "packagesPath": "C:\\Users\\ASKII.DESKTOP-D39ELPS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASKII.DESKTOP-D39ELPS\\documents\\gitStuff\\tdd-Shernandezglez\\Ordenamiento\\obj\\",
+      "outputPath": "C:\\Users\\ASKII.DESKTOP-D39ELPS\\Documents\\gitStuff\\tdd-Shernandezglez\\Ordenamiento\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
